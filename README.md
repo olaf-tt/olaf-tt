@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Brawler Card](http://13.209.72.151:3000/api/player?tag=8JOOLVOY8)
+
 <!--
 **olaf-tt/olaf-tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
